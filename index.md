@@ -10,6 +10,11 @@
 
 # 文章列表
 
+为什么要有文化节?
+
 https://github.com/Vincenthetic/Essays/blob/main/%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%9C%89%E6%96%87%E5%8C%96%E8%8A%82.md
+
+谁没有理想?
+
 https://github.com/Vincenthetic/Essays/blob/main/%E8%B0%81%E6%B2%A1%E6%9C%89%E7%90%86%E6%83%B3%EF%BC%9F.md
 
