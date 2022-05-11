@@ -6,7 +6,7 @@
 
 > 如何阅读?
 
-点击左上方矩形 "View on Github" 即可找到相应的文章仓储区。
+点击左边链接"view this project on Github"即可找到相应的文章仓储区。(提示: 用markdown排版的文章加载起来应该比较快一些. )
 
 
 
